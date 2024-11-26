@@ -1,0 +1,36 @@
+.title-tagline-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.title {
+    font-size: 45px;
+    font-weight: 700;
+    color: #333333;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+/* Style for the tagline */
+.tagline {
+    font-size: 18px;
+    color: #333333;
+    font-family: 'Monaco', monospace;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+.css-1d391kg {
+    background-color: #C0C0C0;
+}
+
+/* Customize the background color for the title and tagline container */
+.title-tagline-container {
+    background-color: #fffae6; /* Soft yellow background for the title container */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
